@@ -6,7 +6,7 @@ This project was created as a learning exercise to understand how modern landing
 
 ## Preview
 
-![Project Preview](assets/images/preview.png)
+![Project Preview](preview.png)
 
 ## About The Project
 
